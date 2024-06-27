@@ -1,0 +1,28 @@
+#classtt{
+    float: left;
+    width: 50px;
+   margin-top: 0%;
+    height:360px;
+    margin-left: 14%;
+    width: 210px;
+    text-align: center;
+}
+
+
+#classttsideBox a{
+    text-decoration: none;
+}
+
+.course{
+    border: 1px solid #6c757d;
+    background-color: #99c1de;
+    height: 40px;
+    text-align: center;
+    padding-left:10%;
+    padding-top: 8px;
+    
+}
+.course p{
+    font-size: 18px;
+    font-family:serif;
+}
